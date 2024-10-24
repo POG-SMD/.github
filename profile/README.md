@@ -46,3 +46,7 @@ Criar o caos, sabotar os outros e ser o último de pé.
 ---
 
 Lembre-se: aqui, **a desordem é o único caminho para o sucesso**!
+
+
+# Capacitações: 
+**POGDEX**: Projeto feito com uso de HTML, CSS, Javascript e GIT. --> https://www.youtube.com/playlist?list=PLppE-8uAJ8FoW6FE-Zjl4Lj66QwSK0Qmh
