@@ -26,6 +26,23 @@ Aqui a procrastinação reina. Se pode ser feito amanhã, por que fazer hoje? Pl
 *Não somos iguais, você é um ser humano e seu colega pode ser um assassino escondido. (Ou pior, não usa óculos).*  
 Desconfie de todos, especialmente daqueles que não usam óculos. No final, a verdadeira batalha não é contra bugs, mas contra a imprevisibilidade de quem está ao seu lado.
 
+**7. Revisão de Código**  
+*Nunca revises o código do colega, tampouco o seu.*  
+Aqui, acreditamos que o código, como a vida, deve ser uma surpresa. Deixe que o caos seja seu guia, e que o futuro revele os bugs. O importante é mergulhar no desconhecido.
+
+**8. Documentação**  
+*Documentação é para os fracos e bem-informados.*  
+Se o código for compreendido, você falhou. Deixe rastros confusos e variáveis mal nomeadas. A verdadeira genialidade está em criar complexidade que nem você, nem ninguém, possa entender no futuro.
+
+**9. Prazos**  
+*Entregarás o projeto sempre atrasado e com funcionalidades faltando.*  
+Prazos são uma invenção do inimigo. Atrasos são a prova de que você não é controlado por ninguém. Se algo está pronto, adie a entrega até que ninguém mais saiba para que serve.
+
+**10. Refatoração**  
+*Nunca refatores nada. O código foi escrito uma vez, e assim permanecerá.*  
+Refatorar é para os que não confiam no caos. Aceite o código como ele é, um retrato caótico de um momento único. Mexer nele seria estragar sua essência original.
+
+
 ---
 
 ## 📜 Filosofia
