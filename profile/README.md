@@ -96,6 +96,23 @@
       <br />
     </td>
   </tr>
+  <tr></tr>
+  <tr>
+    <td align=center colspan=2>
+      <h1>Tecnologias que serão aplicadas:</h1>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align=center><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300"></td
+  </tr>
+  <tr>
+    <td align=center> 
+      <h2>Front-end</h2>
+    </td>
+    <td align="center">
+     <h2>Back-end</h2>
+    </td>
+  </tr>
 </table>
 
 <!-- # Capacitações: **POGDEX**: Projeto feito com uso de HTML, CSS, Javascript e GIT. https://www.youtube.com/playlist?list=PLppE-8uAJ8FoW6FE-Zjl4Lj66QwSK0Qmh -->
