@@ -58,7 +58,8 @@
   <tr>
     <td align=center>
       <h3>Tais Gomes</h3>
-      <p><em>"Cota feminina do grupo"</em></p>
+      <p><em>"Aquela que não sabe o buraco em que se meteu"</em></p>
+<!--       <p><em>"Cota feminina do grupo"</em></p> -->
       <br />
       <img src="https://github.com/user-attachments/assets/3745fd2d-48fb-43ab-b1f5-b4140f68eeb6" width="200px" alt="Imagem da Tais">
       <br />
