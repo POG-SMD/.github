@@ -18,9 +18,12 @@
     <td width=50%> 
       <h2>Descrição do Grupo</h2>
       <h4>POG é uma equipe de desenvolvimento de produtos digitais para a disciplina de Projeto Integrado 1 do curso de Sistemas e Mídias Digitais, que busca trazer leveza e diversão, com um toque de humor duvidoso, em momentos (de semestres) difíceis.</h4>
-      <br/><br/>
+      <br/>
       <h2>Regra N.6 - Sentimento de igualdade</h2>
       <h4>Você é um pato; seu colega, talvez, um humano escondido. Ou, pior... não usa óculos.</h4>
+      <br/>
+      <h2>Objetivo</h2>
+      <h4>Melhorar o modelo de organização/comunicação da Célula Multimídia</h4>
       <br/>
     </td>
     <td align="center" colspan=2>
