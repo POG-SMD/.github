@@ -152,6 +152,15 @@
   ![image](https://github.com/user-attachments/assets/711bd685-1532-43fd-9cbf-fcf5fcd53717)
       
   </td></tr>
+  <tr>
+    <td colspan=2><img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%"></td>
+  </tr>
+  
+  <tr>
+    <td align=center colspan=2>
+      <h1>Requisitos funcionais:</h1>
+    </td>
+  </tr>
 </table>
 
 <!-- # Capacitações: **POGDEX**: Projeto feito com uso de HTML, CSS, Javascript e GIT. https://www.youtube.com/playlist?list=PLppE-8uAJ8FoW6FE-Zjl4Lj66QwSK0Qmh -->
