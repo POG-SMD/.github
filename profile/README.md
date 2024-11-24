@@ -131,6 +131,27 @@
       <br />
     </td>
   </tr>
+  <tr></tr>
+  <tr>
+    <td align=center colspan=2>
+      <h1>Capacitações:</h1>
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td width=50%> 
+      <h1 align="center">POGDEX</h1>
+      <h2>Tecnologias:</h2>
+      <span title="HTML"><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></span>
+      <span title="CSS"><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></span>
+      <span title="Javascript"><img height="32" src="https://img.shields.io/badge/Javacript-c9c910?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" /></span>
+      <h3>Link do repositório: <a href="https://github.com/POG-SMD/POGDEX-PokeAPI">POGDEX-PokeAPI</a></h3>
+      <h3>Link da capacitação: <a href="https://www.youtube.com/playlist?list=PLppE-8uAJ8FoW6FE-Zjl4Lj66QwSK0Qmh">POGDEX</a></h3>
+</td><td>
+      
+  ![image](https://github.com/user-attachments/assets/711bd685-1532-43fd-9cbf-fcf5fcd53717)
+      
+  </td></tr>
 </table>
 
 <!-- # Capacitações: **POGDEX**: Projeto feito com uso de HTML, CSS, Javascript e GIT. https://www.youtube.com/playlist?list=PLppE-8uAJ8FoW6FE-Zjl4Lj66QwSK0Qmh -->
