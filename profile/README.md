@@ -127,6 +127,7 @@
       <span title="ExpressJS"><img  height="32" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="NodeJS" /></span>
       <span title="PostgreeSQL"><img  height="32" src="https://img.shields.io/badge/PostgreeSQL-f9f9f9?style=for-the-badge&logo=postgresql&logoColor=blue" alt="NodeJS" /></span>
       <span title="TypeScript"><img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></span>
+      <span title="Prisma"><img height="32" src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /></span>
       <br />
       <br />
     </td>
