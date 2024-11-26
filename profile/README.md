@@ -166,12 +166,4 @@
   </td>
   </tr>
   <tr></tr>
-  
-  <tr>
-    <td align=center colspan=2>
-      <h1>Requisitos funcionais:</h1>
-    </td>
-  </tr>
 </table>
-
-<!-- # Capacitações: **POGDEX**: Projeto feito com uso de HTML, CSS, Javascript e GIT. https://www.youtube.com/playlist?list=PLppE-8uAJ8FoW6FE-Zjl4Lj66QwSK0Qmh -->
