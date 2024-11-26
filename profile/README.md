@@ -3,13 +3,13 @@
 <tr></tr>
 <tr><td colspan=2>
 
-  ![image](https://github.com/user-attachments/assets/730e6363-b506-4db9-9be0-6c845e3f89ca)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fae2c2ff&size=52&center=true&vCenter=true&height=100&width=1500&lines=O+QUE+NOS+TORNA+ÚNICOS,+É+O+QUE+NOS+UNE;UNE?+SEPARA!!!;)](https://git.io/typing-svg)
 
 </td></tr>
 <tr></tr>
 <tr><td colspan=2>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fae2c2ff&size=52&center=true&vCenter=true&height=100&width=1500&lines=O+QUE+NOS+TORNA+ÚNICOS,+É+O+QUE+NOS+UNE;UNE?+SEPARA!!!;)](https://git.io/typing-svg)
+  ![image](https://github.com/user-attachments/assets/730e6363-b506-4db9-9be0-6c845e3f89ca)
   
 </td></tr>
 
@@ -131,6 +131,7 @@
     </td>
   </tr>
   <tr></tr>
+  
   <tr>
     <td align=center colspan=2>
       <h1>Capacitações:</h1>
@@ -138,8 +139,19 @@
   </tr>
   <tr></tr>
   <tr>
-    <td width=50%> 
-      <h1 align="center">POGDEX</h1>
+    <td colspan=2><h1>POGDEX</h1></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td colspan=2>
+      <br />
+      <p>Um projeto feito para aprender o uso de APIs com fetchAPI, conceitos basicos de react utilizando HTML dentro do Javascript e uma base de CSS básico e intermediário. Além de conceitos iniciais em versionamento com GIT.</p>
+      <br />
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td colspan=1> 
       <h2>Tecnologias:</h2>
       <span title="HTML"><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></span>
       <span title="CSS"><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></span>
@@ -147,46 +159,13 @@
       <h3>Link do repositório: <a href="https://github.com/POG-SMD/POGDEX-PokeAPI">POGDEX-PokeAPI</a></h3>
       <h3>Link da capacitação: <a href="https://www.youtube.com/playlist?list=PLppE-8uAJ8FoW6FE-Zjl4Lj66QwSK0Qmh">POGDEX</a></h3>
     </td>
-    <td>
+    <td colspan=1>
       
   ![image](https://github.com/user-attachments/assets/711bd685-1532-43fd-9cbf-fcf5fcd53717)
       
   </td>
   </tr>
   <tr></tr>
-  <!-- <tr>
-    <td>
-      
-  <!-- ![image](https://github.com/user-attachments/assets/711bd685-1532-43fd-9cbf-fcf5fcd53717)
-      
-  </td>
-  <td>
-      <h1 align="center">POGDEX</h1>
-      <h2>Tecnologias:</h2>
-      <span title="HTML"><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></span>
-      <span title="CSS"><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></span>
-      <span title="Javascript"><img height="32" src="https://img.shields.io/badge/Javacript-c9c910?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" /></span>
-      <h3>Link do repositório: <a href="https://github.com/POG-SMD/POGDEX-PokeAPI">POGDEX-PokeAPI</a></h3>
-      <h3>Link da capacitação: <a href="https://www.youtube.com/playlist?list=PLppE-8uAJ8FoW6FE-Zjl4Lj66QwSK0Qmh">POGDEX</a></h3>
-  </td>
-</tr>
-  <tr></tr>
-  <tr>
-    <td width=50%> 
-      <h1 align="center">POGDEX</h1>
-      <h2>Tecnologias:</h2>
-      <span title="HTML"><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></span>
-      <span title="CSS"><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></span>
-      <span title="Javascript"><img height="32" src="https://img.shields.io/badge/Javacript-c9c910?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" /></span>
-      <h3>Link do repositório: <a href="https://github.com/POG-SMD/POGDEX-PokeAPI">POGDEX-PokeAPI</a></h3>
-      <h3>Link da capacitação: <a href="https://www.youtube.com/playlist?list=PLppE-8uAJ8FoW6FE-Zjl4Lj66QwSK0Qmh">POGDEX</a></h3>
-    </td>
-    <td>
-      
-  ![image](https://github.com/user-attachments/assets/711bd685-1532-43fd-9cbf-fcf5fcd53717)
-      
-  </td>
-  </tr> -->
   
   <tr>
     <td align=center colspan=2>
