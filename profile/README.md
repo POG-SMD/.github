@@ -99,6 +99,27 @@
   </tr>
   <tr></tr>
   <tr>
+    <td align=center>
+      <h3>Arthur</h3>
+      <p><em>"No fundo ele usa óculos (para POG não virar POGA)"</em></p>
+      <br />
+      <img src="https://github.com/user-attachments/assets/4b83064d-231f-4871-b6ef-bb8409f30282" width="200px" alt="Imagem do arthur">
+      <br />
+      <br />
+      <br />
+    </td>
+    <td align=center>
+      <h3>Bicudo</h3>
+      <p><em>"Nosso líder POGastico"</em></p>
+      <br />
+      <img src="https://github.com/user-attachments/assets/8f7cc1d5-f9fc-4595-bb86-08948b9359fa" width="200px" alt="Imagem do pog">
+      <br />
+      <br />
+      <br />
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
     <td align=center colspan=2>
       <h1>Tecnologias que serão aplicadas:</h1>
     </td>
